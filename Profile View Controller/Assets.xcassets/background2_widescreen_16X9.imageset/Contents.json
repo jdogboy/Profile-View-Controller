@@ -2,17 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "background2_widescreen_16X9.jpg",
+      "filename" : "weed-912898_1920.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "background2_widescreen_16X9-1.jpg",
+      "filename" : "weed-912898_1920-1.jpg",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "background2_widescreen_16X9-2.jpg",
+      "filename" : "weed-912898_1920-2.jpg",
       "scale" : "3x"
     }
   ],
