@@ -412,6 +412,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Profile View Controller/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.incogDiscombobulate.Profile-View-Controller";
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Profile View Controller/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.incogDiscombobulate.Profile-View-Controller";
@@ -505,6 +507,7 @@
 				67D7C53F1EC945B40098B43F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		67D7C5401EC945B40098B43F /* Build configuration list for PBXNativeTarget "Profile View ControllerTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +516,7 @@
 				67D7C5421EC945B40098B43F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		67D7C5431EC945B40098B43F /* Build configuration list for PBXNativeTarget "Profile View ControllerUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +525,7 @@
 				67D7C5451EC945B40098B43F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
